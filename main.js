@@ -1,1 +1,1 @@
-console.log('zovem se Ana');
+console.log('zovem se kolega');
